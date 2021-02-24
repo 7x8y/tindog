@@ -1,2 +1,2 @@
 # tindog
-tinder for dogs (simple html+css+bootstrap)
+tinder for dogs (simple html+css+bootstrap front-end)
